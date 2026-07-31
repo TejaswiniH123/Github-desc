@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Tejaswini H
 
-### Software Engineer | Backend Developer | Java & Spring Boot Enthusiast
+### Information Science Student @ The NIE, Mysore
+### Aspiring Software Engineer , Backend Developer | Java & Spring Boot Enthusiast
 
 Passionate about building scalable backend systems, full-stack web applications, and AI-powered solutions.
 
