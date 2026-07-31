@@ -28,7 +28,7 @@ My primary interests include:
 - 🗄 Database Design & Optimization
 - 📈 Scalable Software Architecture
 
-I believe that great software is not just about writing code—it's about solving problems efficiently, building maintainable systems, and continuously learning new technologies.
+I believe that great software is not just about writing code - it's about solving problems efficiently, building maintainable systems, and continuously learning new technologies.
 
 ---
 
