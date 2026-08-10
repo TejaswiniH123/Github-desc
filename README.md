@@ -159,8 +159,6 @@ I'm actively seeking opportunities as a **Software Development Engineer**, **Bac
 
 💼 **LinkedIn:** https://www.linkedin.com/in/tejaswini-h/
 
-💻 **Portfolio:** https://tejaswinihportfolio.vercel.app/
-
 🐙 **GitHub:** https://github.com/TejaswiniH123
 
 ---
