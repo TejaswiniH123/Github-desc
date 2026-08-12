@@ -86,6 +86,21 @@ I believe that great software is not just about writing code - it's about solvin
 
 # 🚀 Featured Projects
 
+## 🦯 AI-Powered Voice Navigation Assistant
+
+An AI-based navigation assistant designed to help visually impaired individuals navigate safely using computer vision and voice guidance.
+
+**Highlights**
+
+- YOLO Object Detection
+- Voice Assistance
+- Obstacle Detection
+- OCR Support
+- Real-time Navigation
+- FastAPI AI Service
+
+---
+
 ## 🤖 IntelliHire – Resume-Aware Technical Interview Evaluation System
 
 An AI-powered full-stack platform that simulates technical interviews by generating resume-aware questions and evaluating candidate responses using structured scoring and speech analysis. The platform provides personalized feedback, tracks interview performance, and helps users identify skill gaps to improve interview readiness.
@@ -160,6 +175,8 @@ I'm actively seeking opportunities as a **Software Development Engineer**, **Bac
 💼 **LinkedIn:** https://www.linkedin.com/in/tejaswini-h/
 
 🐙 **GitHub:** https://github.com/TejaswiniH123
+
+💻 **Portfolio:** https://tejaswinihportfolio.vercel.app/
 
 ---
 
